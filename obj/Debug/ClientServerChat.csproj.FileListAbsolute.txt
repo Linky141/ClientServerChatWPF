@@ -1,0 +1,45 @@
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat.csprojAssemblyReference.cache
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\App.g.cs
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat_MarkupCompile.cache
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat_MarkupCompile.lref
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\bin\Debug\ClientServerChat.exe.config
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\bin\Debug\ClientServerChat.exe
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\bin\Debug\ClientServerChat.pdb
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat.g.resources
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat.Properties.Resources.resources
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat.csproj.GenerateResource.cache
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat.exe
+C:\Users\Tomasz Bielas\Desktop\ClientServerChat\obj\Debug\ClientServerChat.pdb
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\bin\Debug\ClientServerChat.exe.config
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\bin\Debug\ClientServerChat.exe
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\bin\Debug\ClientServerChat.pdb
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.csprojAssemblyReference.cache
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\App.g.cs
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat_MarkupCompile.cache
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat_MarkupCompile.lref
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.g.resources
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.Properties.Resources.resources
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.csproj.GenerateResource.cache
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.exe
+C:\Users\Tomasz Bielas\Desktop\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.pdb
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\bin\Debug\ClientServerChat.exe.config
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\bin\Debug\ClientServerChat.exe
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\bin\Debug\ClientServerChat.pdb
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.csprojAssemblyReference.cache
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\MainWindow.g.cs
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\App.g.cs
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat_MarkupCompile.cache
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat_MarkupCompile.lref
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\MainWindow.baml
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.g.resources
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.Properties.Resources.resources
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.csproj.GenerateResource.cache
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.csproj.CoreCompileInputs.cache
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.exe
+D:\NAUKA\Studia\Semestr 4\Sieci Komputerowe\Projekt\Program\Podejście #1\ClientServerChat\obj\Debug\ClientServerChat.pdb
